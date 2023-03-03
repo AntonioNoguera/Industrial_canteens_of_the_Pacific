@@ -1,0 +1,45 @@
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.exe.config
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.exe
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.pdb
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.xml
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.AssemblyReference.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.SuggestedBindingRedirects.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Resources.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.GenerateResource.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.CoreCompileInputs.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.CopyComplete
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.exe
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.xml
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.pdb
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.exe.licenses
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.InicioSesion.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.CrearNuevoUsuario.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.StartUpForm.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.PantallaPrincipal.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Apuntes.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Distribuidores.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Registros.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.VentasGastos.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.AssemblyReference.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.SuggestedBindingRedirects.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.Apuntes.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.CrearNuevoUsuario.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.Distribuidores.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.InicioSesion.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.Resources.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.PantallaPrincipal.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.Registros.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.StartUpForm.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.VentasGastos.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.GenerateResource.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.CoreCompileInputs.cache
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.vbproj.CopyComplete
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\ProyectoPOO.SeleccionaFecha.resources
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\bin\Debug\Comedor Insdustrial del Pacifico.exe.config
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\bin\Debug\Comedor Insdustrial del Pacifico.exe
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\bin\Debug\Comedor Insdustrial del Pacifico.pdb
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\bin\Debug\Comedor Insdustrial del Pacifico.xml
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\Comedor Insdustrial del Pacifico.exe.licenses
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\Comedor Insdustrial del Pacifico.exe
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\Comedor Insdustrial del Pacifico.xml
+D:\CUARTO SEMESTRE\POO\ProyectoPoo\ProyectoPOO\RESPALDO 09-05-02\ProyectoPOO\obj\Debug\Comedor Insdustrial del Pacifico.pdb

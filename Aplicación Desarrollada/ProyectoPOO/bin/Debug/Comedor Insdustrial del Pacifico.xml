@@ -1,0 +1,276 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Comedor Insdustrial del Pacifico
+</name>
+</assembly>
+<members>
+<member name="T:ProyectoPOO.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ProyectoPOO.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ProyectoPOO.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ProyectoPOO.My.Resources.Resources.fondo_de_dudosa_calidad">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.ApuntesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.DistribuidoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegCenasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegComidasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegDesayunosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGVDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosTotalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosVDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.UsuariosComedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.ApuntesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.DistribuidoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegCenasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegComidasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegDesayunosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGVRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosTotalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosVRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.UsuariosComedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.ApuntesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.DistribuidoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegCenasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegComidasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegDesayunosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosGVRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosTotalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.RegistrosVRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSet.UsuariosComedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.ApuntesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.DistribuidoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegCenasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegComidasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegDesayunosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegistrosGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegistrosGVTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegistrosTotalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.RegistrosVTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.UsuariosComedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoPOO.Comedor_PacificoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoPOO.Comedor_PacificoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoPOO.Comedor_PacificoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.UpdateAll(ProyectoPOO.Comedor_PacificoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoPOO.Comedor_PacificoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
